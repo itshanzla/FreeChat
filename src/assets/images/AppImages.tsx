@@ -1,0 +1,16 @@
+export const Images ={
+    backgroundImage: require('../images/background.jpeg'),
+    Image1: require('../images/Girl1.png'),
+    Image2: require('../images/Girl2.png'),
+    Image3: require('../images/Girl3.png'),
+    Image4: require('../images/Girl4.png'),
+    Image5: require('../images/Boy1.png'),
+    Image6: require('../images/Boy2.png'),
+    Image7: require('../images/Boy3.png'),
+    Image8: require('../images/Boy4.png'),
+    Image9: require('../images/Boy5.png'),
+    Image10: require('../images/Profile.png'),
+    empty: require('../images/empty.jpg'),
+    group: require('../images/group.jpg'),
+    groupimg: require('../images/groupempty.jpg'),
+}

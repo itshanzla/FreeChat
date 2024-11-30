@@ -1,0 +1,11 @@
+{
+    "mode" : "light",
+    "Background" : "#FFFFFF",
+    "text" : "#000000",
+    "Primary" : "#54408C",
+    "icon" : "#000000",
+    "CardBackground" : "#FAFAFA",
+    "LightBlack":"#E8E8E8",
+    "offwhite":"#FAFAFA",
+    "white":"#FFFFFF"
+}

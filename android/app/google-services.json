@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931827399226",
+    "project_id": "freechat-fc2bc",
+    "storage_bucket": "freechat-fc2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931827399226:android:2169e1ed905f579579d303",
+        "android_client_info": {
+          "package_name": "com.freechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDpXjUNjEIcTjrW3CJedjJajaHggA_Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
