@@ -1,0 +1,20 @@
+export const AppIcons={
+    mail:require('../icons/Icons/Frame.png'),
+    lock:require('../icons/Icons/Lock.png'),
+    closeeye:require('../icons/Icons/closedeye.png'),
+    openeye:require('../icons/Icons/openeye.png'),
+    user:require('../icons/Icons/user.png'),
+    chat:require('../icons/Icons/chat.png'),
+    add:require('../icons/Icons/ADD.png'),
+    Back:require('../icons/Icons/BackArrow.png'),
+    Video:require('../icons/Icons/Video.png'),
+    Call:require('../icons/Icons/Call.png'),
+    Send:require('../icons/Icons/Send.png'),
+    Phone:require('../icons/Icons/Phone.png'),
+    Profile:require('../icons/Icons/Profile.png'),
+    Vector:require('../icons/Icons/Vector.png'),
+    search:require('../icons/Icons/Search.png'),
+    menu:require('../icons/Icons/Menu.png'),
+    link:require('../icons/Icons/link.png'),
+
+}
